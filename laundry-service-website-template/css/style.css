@@ -92,6 +92,7 @@ p {
   margin: -105px auto 0 auto;
   display: flex;
   flex-wrap: wrap;
+  gap: 1.5px;
   z-index: 1;
 }
 
